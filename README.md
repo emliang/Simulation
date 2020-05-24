@@ -7,6 +7,8 @@ Simulation results for "An Integrated Data-Driven Reinforcement Learning and Opt
 
 <center> Order request &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Value function
 
+
+
 <center> Simulation time: 10:00~20:00
 
 <img src="Gif/order_10_20.gif" width = "50%" /><img src="Gif/value_10_20.gif" width = "50%" />
